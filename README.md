@@ -5,16 +5,11 @@ This feature-packed documentation for our multi platform robot controller, offer
 <br/>
 ## Getting Started
 
-First, run the development server:
+First, for the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npx run dev
+
 ```
 ## Features
 
